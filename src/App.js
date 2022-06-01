@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 
+
 import './App.css';
 import Header from './components/Header';
 import Hero from './components/Hero'; 
@@ -9,7 +10,11 @@ import Resume from './components/Resume'
 import Contact from './components/Contact';
 import Footer from './components/Footer'
 
+
+
 import AOS from 'aos';
+
+
 
 function App() {
   // THIS IS FOR THE AOS FADING EFFECT 
@@ -19,8 +24,12 @@ function App() {
     });
   }, []);
 
+
+
   //SET UP THE ABOUT TO BE RENDERED ON INITIAL LOAD 
   const [currentPage, setCurrentPage] = useState('About');
+
+
 
   //CONDTIONALLY RENDER EACH PAGE DEPENDING ON THE CURRENT-PAGE STATE
   const renderPage = () => {
@@ -56,5 +65,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
