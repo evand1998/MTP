@@ -16,7 +16,7 @@ function portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/movienight.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/Portfolio/movienight.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
                             <a href="https://github.com/evand1998/Movie-Night" title="View Github"><i className="bx bxl-github"></i></a>
                             <a href="https://evand1998.github.io/Movie-Night/" title="View Page"><i className="bx bx-link"></i></a>
@@ -26,7 +26,7 @@ function portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/DI.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/Portfolio/DI.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
                             <a href="https://github.com/evand1998/DevelopIT-Full-Stack-Forum" title="View Github"><i className="bx bxl-github"></i></a>
                             <a href="https://safe-river-61746.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
@@ -36,7 +36,7 @@ function portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/weather.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/Portfolio/weather.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
                             <a href="https://github.com/evand1998/WA2" title="View Github"><i className="bx bxl-github"></i></a>
                             <a href="https://evand1998.github.io/WA2/" title="View Page"><i className="bx bx-link"></i></a>
@@ -46,7 +46,7 @@ function portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/sch.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/Portfolio/sch.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
                             <a href="https://github.com/evand1998/DailyPlanner" title="View Github"><i className="bx bxl-github"></i></a>
                             <a href="https://evand1998.github.io/DailyPlanner/" title="View Page"><i className="bx bx-link"></i></a>
@@ -56,7 +56,7 @@ function portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/codingq.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/Portfolio/codingq.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
                             <a href="https://github.com/evand1998/CQ2" title="View Github"><i className="bx bxl-github"></i></a>
                             <a href="https://evand1998.github.io/CQ2/" title="View Page"><i className="bx bx-link"></i></a>
@@ -66,7 +66,7 @@ function portfolio() {
 
                     <div className="col-lg-4 col-md-6 portfolio-item">
                         <div className="portfolio-wrap">
-                        <img src={require('../../Assets/portfolio/budget.png')} className="img-fluid" alt="" />
+                        <img src={require('../../Assets/Portfolio/budget.png')} className="img-fluid" alt="" />
                         <div className="portfolio-links">
                             <a href="https://fierce-cliffs-95591.herokuapp.com/" title="View Page"><i className="bx bx-link"></i></a>
                         </div>
