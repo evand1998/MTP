@@ -4,6 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'boxicons/css/boxicons.min.css'
+import 'aos/dist/aos.css'
+
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'aos/dist/aos.js'
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
