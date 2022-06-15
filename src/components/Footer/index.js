@@ -21,9 +21,9 @@ function Footer() {
                         </div>
 
                         <div className="github col-lg-3 col-md-3 col-sm-12 c-item">
-                            <a href="https://www.linkedin.com/in/jaime-gallegos/"> <i className='bx bxl-linkedin' ></i></a>
+                            <a href="www.linkedin.com/in/evan-s-diaz/"> <i className='bx bxl-linkedin' ></i></a>
                             <h4>Visit:</h4>
-                            <p> <a href="https://www.linkedin.com/in/jaime-gallegos/"> LinkedIn.com </a> </p>
+                            <p> <a href="www.linkedin.com/in/evan-s-diaz/"> LinkedIn.com </a> </p>
                         </div>
 
                     </div>
