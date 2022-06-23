@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MTP/static/css/main.b55c3b04.css",
+    "main.js": "/MTP/static/js/main.978f95ee.js",
+    "static/css/907.65819042.chunk.css": "/MTP/static/css/907.65819042.chunk.css",
+    "static/js/907.0899b144.chunk.js": "/MTP/static/js/907.0899b144.chunk.js",
+    "static/media/profile-img.png": "/MTP/static/media/profile-img.4ba626e36fcc5bea5665.png",
+    "static/media/movienight.png": "/MTP/static/media/movienight.a32afb999aa8e170216f.png",
+    "static/media/boxicons.svg": "/MTP/static/media/boxicons.0153fb5e5b5f697b4bcc.svg",
+    "static/media/boxicons.eot": "/MTP/static/media/boxicons.21f7c5dd64d88e1fc666.eot",
+    "static/media/boxicons.woff": "/MTP/static/media/boxicons.02aa967c5bfb9489501a.woff",
+    "static/media/boxicons.ttf": "/MTP/static/media/boxicons.ad0ddae357213656b3e6.ttf",
+    "static/media/weather.png": "/MTP/static/media/weather.0ff603b8042432ffdc9f.png",
+    "static/media/boxicons.woff2": "/MTP/static/media/boxicons.0335b427967c56248ea6.woff2",
+    "static/media/HoustonSky.webp": "/MTP/static/media/HoustonSky.d9fa7c717e2d8775256a.webp",
+    "static/media/budget.png": "/MTP/static/media/budget.f4a52505e78f649d1467.png",
+    "static/media/DI.png": "/MTP/static/media/DI.4dc1efbb8f6bfe61f452.png",
+    "static/media/sch.png": "/MTP/static/media/sch.b144d2fe5fc22af0a1dd.png",
+    "static/media/codingq.png": "/MTP/static/media/codingq.a70c27d9433b44cfc2ff.png",
+    "index.html": "/MTP/index.html",
+    "main.b55c3b04.css.map": "/MTP/static/css/main.b55c3b04.css.map",
+    "main.978f95ee.js.map": "/MTP/static/js/main.978f95ee.js.map",
+    "907.65819042.chunk.css.map": "/MTP/static/css/907.65819042.chunk.css.map",
+    "907.0899b144.chunk.js.map": "/MTP/static/js/907.0899b144.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55c3b04.css",
+    "static/js/main.978f95ee.js"
+  ]
+}
