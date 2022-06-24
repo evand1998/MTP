@@ -22,7 +22,7 @@ function About() {
                         Throughout my entire life, I've had a passion for building; manifesting something from the ground up, to the point of success.
                         </p>
                         <p>
-                        While currently enrolled at the University of Houston, perusing a degree in buisness managment, I wanted more- to aquire life long skills that could actually be applied in real world, while still being able to stay in my degree's feild of study. This desire lead me to enroll into the full-stack web development program at Rice University's Coding Bootcamp. With these illuminating experiences under my belt, I have developed a broad range of differing applications. If you are in the market for a self-motivated, extreamly diligent inidviudal to join your team, then look no further, for I hope to make your acquaintance. 
+                        I am currently pursuing a degree in business management at the University of Houston, but wanted to expand my skillset to meet the demands of today’s market. This desire led me to enroll in a coding program offered by Rice University, during which I developed a broad range of differing applications. Through the combination of these skills and my education, I hope to make myself an asset in the workplace. If you are seeking a diligent and self-motivated addition to your team, look no further - let’s build something together.
                         </p>
                     </div>
                 </div>
