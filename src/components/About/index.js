@@ -16,13 +16,13 @@ function About() {
                     </div>
                     <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-right">
                         <p className="fst-italic">
-                        “Those who dare to fail miserably can achieve greatly.” -John F. Kennedy
+                        Those who dare to fail miserably can achieve greatly.” -John F. Kennedy
                         </p>
                         <p>
-                        Throughout my entire life, I've had a passion for building; manifesting something from the ground up, to the point of success.
+                        Throughout my entire life I've had a passion for building, manifesting something from the ground up to the point of success.
                         </p>
                         <p>
-                        I am currently pursuing a degree in business management at the University of Houston, but wanted to expand my skillset to meet the demands of today’s market. This desire led me to enroll in a coding program offered by Rice University, during which I developed a broad range of differing applications. Through the combination of these skills and my education, I hope to make myself an asset in the workplace. If you are seeking a diligent and self-motivated addition to your team, look no further - let’s create something great.
+                        I am currently pursuing a degree in business management at the University of Houston while expanding my skill set to align with the demands of today's marketplace. This goal led me to enroll in Rice University's coding program in which I developed a broad range of applications. Through the combination of these proficiencies, I believe I am a viable asset in the workplace. If you are seeking a diligent and self-motivated addition to your team, look no further. Let's create something great! 
                         </p>
                     </div>
                 </div>
